@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=devaeterne&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=devaeterne&">
 
 # Merhaba, ben Şafak Sarıyıldız! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devaeterne" alt="devaeterne" /> </p>
